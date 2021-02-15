@@ -2,7 +2,7 @@
 ## Resume Guidelines
 Please read through the following guidlines and prepare your resume accordingly: https://github.com/techjobs-ge/tj-guidelines
 ## How start a resume review?
-1. Clone this repo `git clone git@github.com:otarza/bitcamp-resume-review.git`;
+1. Clone this repo `git clone git@github.com:bitcamp-ge/bitcamp-resume-review.git`;
 1. Create new branch named after you: `git checkout -b {name}-{surname}`. Sample: `git checkout -b oto-zakalashvili`;
 1. Copy your resume in to your local repository inside current year and season folder, in PDF format - Sample file name: `Oto_Zakalashvili.pdf` - Sample file path: `./2020/summer/Oto_Zakalashvili.pdf`;
 1. Add your file to Git repo. Sample: `git add ./2020/summer/Oto_Zakalashvili.pdf`;
