@@ -2,7 +2,6 @@
 ## Resume Guidelines
 Please read through the following guidlines and prepare your resume accordingly: https://github.com/techjobs-ge/tj-guidelines
 ## How start a resume review?
-1. Clone this repo `git clone git@github.com:bitcamp-ge/bitcamp-resume-review.git`;
 1. Fork this repo. (How to fork repo on Github? https://docs.github.com/en/github/getting-started-with-github/fork-a-repo )
 1. Clone your forked repo locally onto your machine.
 1. Create new branch named after you: `git checkout -b {name}-{surname}`. Sample: `git checkout -b oto-zakalashvili`;
